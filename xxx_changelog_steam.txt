@@ -1,9 +1,9 @@
 ##############################PARADOX MOD
 ##NAME
--My Monastery- v0.9
+-My Monastery- v0.9.1
 
 ##SHORT DESC
-This mod's core feature is adding a new holding type: the monastery, as well as some flavour around it. 
+This mod's core feature is adding a new holding type: the monastery, as well as some flavour around it.
 
 ##FULL DESC
 This mod's core feature is adding a new holding type: the monastery, as well as some flavour around it.
@@ -41,10 +41,10 @@ Credits:
 
 
 ##CHANGELOG
-MYMO v0.9 for CK3 v1.6
+MYMO v0.9.1 for CK3 v1.8
 CHANGELOG:
 [LIST]
-[*]updating the mod to vanilla's 1.6 version
+[*]updating the mod to vanilla's 1.8 version
 [/LIST]
 
 
@@ -101,13 +101,13 @@ La caractéristique principale de ce mod est l'ajout d'un nouveau type de domain
 ##############################GITHUB
 
 ##TAG
-v0.9
+v0.9.1
 
 
 ##VERSION
-v0.9 for CK3 1.6
+v0.9.1 for CK3 1.8
 
 
 ##CHANGELOG
 __CHANGELOG__
-- updating the mod to vanilla's 1.6 version
+- updating the mod to vanilla's 1.8 version

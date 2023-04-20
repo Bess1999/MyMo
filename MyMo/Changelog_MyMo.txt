@@ -1,7 +1,12 @@
 ##################################
 ## CK3 MOD _ [MYMO] My Monastery
 # by Arko & Mouchi
+# Forked by Bess
 
+
+CURRENT DEV MYMO v0.9.1 for CK3 v1.8
+CHANGES:
+-updating the mod to vanilla's 1.8 version
 
 CURRENT DEV MYMO v0.9 for CK3 v1.6
 CHANGES:
